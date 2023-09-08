@@ -149,3 +149,31 @@ O resultado final é 30% da soma desses valores, portanto, 30% de R$435.000,00, 
 - [SheetGTP](https://workspace.google.com/marketplace/app/sheetgpt/1071108744264)
 - [Guia básico de engenharia de prompt](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md)
 - [Planilha para cálculo da arrecadação de impostos](https://docs.google.com/spreadsheets/d/1U0kYr00-lHRoCvqD4W-9u4rNmgF02WdqAfZDMP6C-9Q/edit#gid=0)
+
+## Aula 4 - MANIPULE PLANILHAS COM PYTHON/PANDAS E O CHATGPT
+
+### Introdução
+
+Google Colab. Vamos mergulhar em Python e na biblioteca de manipulação de dados Pandas, demonstrando como importar tabelas e realizar análises iniciais com os comandos mais importantes. Não se preocupe se você não sabe programar! Nós utilizaremos o ChatGPT para nos auxiliar na criação de código em Python e Pandas, e também para plotar gráficos.
+
+[Planilha avaliações Amazon](https://docs.google.com/spreadsheets/d/12THJZdg_FXW_P7Yh8s4ski0tEn3KzkwXWVcR7Pfkln8/edit#gid=1074485333)
+
+[Código Google CoLab](https://colab.research.google.com/drive/1qSoP2TbOtahUC8YywBhZb_9Ru2FZaHkR)
+
+### Desafios
+
+1. Usando o Google Colab com Python e Pandas, criar uma nova coluna chamada “actual_price_real”, que será o valor da coluna “actual_price” convertido para reais (dica: você pode apenas multiplicar o valor em rúpias por 0.05, como fizemos na Aula 01, ou então buscar o valor de hoje da conversão entre rúpias indianas e reais brasileiros no Google).
+
+2. Realizar as análises que foram executadas nas aulas anteriores usando o Google Sheets, mas agora utilizando Python e Pandas no Google Colab.
+
+3. Conectar as duas planilhas usadas nas aulas anteriores, como fizemos com o VLOOKUP, mas usando Python e Pandas.
+
+4. Colocar a base já corrigida na biblioteca Pandas Profiling citada no conteúdo extra.
+
+[Código com desafios Google CoLab](https://colab.research.google.com/drive/1qSoP2TbOtahUC8YywBhZb_9Ru2FZaHkR#scrollTo=c1mOZRiAOdvK)
+
+### Links
+
+- [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
+- [Documentação da biblioteca Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
+- [Documentação da biblioteca Pandas Profiling](https://pandas.pydata.org/docs/user_guide/index.html)
