@@ -177,3 +177,41 @@ Google Colab. Vamos mergulhar em Python e na biblioteca de manipulação de dado
 - [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
 - [Documentação da biblioteca Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
 - [Documentação da biblioteca Pandas Profiling](https://pandas.pydata.org/docs/user_guide/index.html)
+
+## Aula 5 - CARREIRAS EM ANÁLISE DE DADOS E INTELIGÊNCIA ARTIFICIAL
+
+### Introdução
+
+Diferenças entre as principais carreiras nessa área de dados, tais como Analista de Dados, Cientista de Dados, Engenheiro de Dados, Engenheiro de Machine Learning, Engenheiro de IA e Engenheiro de Prompt.
+
+### Engenheiro de dados
+
+- Responsável pela coleta dos dados, preparação para análises e armazenamento dos dados, conforme lei vigente. Pode desenvolver plataformas para isso. Pode ou não fazer a limpeza de dados.
+
+### Analistas (dados, business intelligence, negócios)
+
+- Responsáveis pelo intendimento da geração dos dados, exploração de dados, hipóteses para testes, transformações dos dados, de um input extrair um output necessário ao negócio. Determinar o que é necessário em investimentos, colaboradores, o custo benefício ou não.
+
+### Cientista de dados
+
+- Responsável também pela limpeza e exploração de dados e também criar modelos de machine learning (aprendizado de máquina), métricas, modelos de regressão.
+
+### Engenheiro de machine learning
+
+- Responsável pelo monitoramento dos modelos prontos, entender como funcionam em produção, estruturar o workflow de transformação e análise dos dados. Coleta de novos dados em produção para retreinamento de machine learning.
+
+### Governança de dados
+
+- Responsável pela educação da equipe de gera os dados, política e diretrizes dos modelos a serem criados, o que é possível disponibilizar de dados, ajuda a catalogar e entender os dados disponíveis. Garantir a qualidade dos dados e metadados, conformidade em relação a legislação e normas, quem pode acessar os dados.
+
+### Engenheiro de IA (inteligência artificial)
+
+- Responsável por gerir e entender os modelos de IA. Pesquisa e desenvolvimento de IA. Modelos de linguagem e processamento de linguagem natural. Testar formas de criação e servir os modelos, eficiência dos modelos. Treinamento e Avaliação do modelos, buscar e criar novos datasets para avaliar o modelo. Planejar novos experimentos.
+
+### Engenheiro de prompt
+
+- Responsável pela analise das melhores formas de criar um prompt, para ser preciso e funcional na maioria das vezes. Testar novas formas de criação de prompt, chain of thought, tree of thoughts, entre muitos outros que estão sendo criados. Trazer artigos acadêmicos para as empresas.
+
+### Links
+
+- [Tech Guide](https://techguide.sh/)
