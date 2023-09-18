@@ -215,3 +215,7 @@ Diferenças entre as principais carreiras nessa área de dados, tais como Analis
 ### Links
 
 - [Tech Guide](https://techguide.sh/)
+
+## Certificado
+
+- [PDF](/arquivos/imersao-dados-ia-certificado.pdf)
